@@ -1,3 +1,4 @@
+
 # E Commerce Business Intelligence Platform
 
 We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce dataset from January 2024 to December 2025. The project covers 2,000 orders from 492 distinct customers across four areas: sales, customers, products, and profitability.
