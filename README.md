@@ -3,17 +3,6 @@
 
 We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce dataset from January 2024 to December 2025. The project covers 2,000 orders from 492 distinct customers across four areas: sales, customers, products, and profitability.
 
-## Power BI Dashboard Preview
-
-![Power BI Home dashboard](./Power%20BI/Screenshots/Home.png)
-
-## Matplotlib Dashboard Preview
-
-![Matplotlib dashboard showing e-commerce sales, customers, products, and profitability](./Python%20Matplotlib/E_Commerce_Matplotlib_Dashboard.png)
-
-## Excel Dashboard Preview
-
-![Excel dashboard showing sales, customers, products, and profitability](./Excel/Final.png)
 
 ## Explore the project
 
